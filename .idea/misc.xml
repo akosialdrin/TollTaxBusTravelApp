@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/bg_spinner.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/button_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/close.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/cut_card_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_back.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_baseline_picture_as_pdf_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_home.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_location.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_logout.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_settings.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/drawable/rectangular_field.xml" value="0.2203125" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/font/acme.xml" value="0.234375" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/about_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_basic.xml" value="0.25" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_full_image.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_qr_code_scanner.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_panel.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_printpdf.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_reports.xml" value="0.21" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_scan_intent.xml" value="0.22" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_scanned_done.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_signin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/admin_webview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/conductor_create.xml" value="0.22" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/conductor_home.xml" value="0.25" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/conductor_profile.xml" value="0.2" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/conductor_saved_images.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/conductor_signin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/conductor_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/content_basic.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/create.xml" value="0.33" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/dashboard_activity_working.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/dashboardworking.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/forget_pass_conductor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/fragment_second.xml" value="0.16" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/fragment_third.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/layout_file.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/menu.xml" value="0.18" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/my_account_conductor.xml" value="0.25" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/qr_code_generated.xml" value="0.209375" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/qr_code_scanner.xml" value="0.25" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/qr_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/qrdisplay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/retrive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/scan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/signin.xml" value="0.25" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/signin_admin.xml" value="0.5" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/signup.xml" value="0.16" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/toolbar2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/toolbar3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/toolbar4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/layout/zoom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/menu/menu1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/menu/menu_bottom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abuen/AndroidStudioProjects/Authentication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

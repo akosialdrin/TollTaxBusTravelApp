@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.authentication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="Toll Tax Bus Travel"
+        android:icon="@drawable/ic_baseline_airport_shuttle_24"
+        android:roundIcon="@drawable/ic_baseline_airport_shuttle_24"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Authentication">
+
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ConductorSignUpActivity" />
+        <activity android:name=".ConductorSignInActivity" />
+        <activity android:name=".AdminScanIntentActivity" />
+        <activity android:name=".ConductorHomeActivity" />
+        <activity android:name=".ConductorProfileActivity" />
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".AdminSignInActivity" />
+        <activity android:name=".AdminSignUpActivity" />
+        <activity android:name=".ConductorCreateActivity" />
+        <activity android:name=".AdminQrCodeScannerActivity" />
+        <activity android:name=".AdminPanelActivity" />
+        <activity android:name=".AdminProfileActivity" />
+        <activity android:name=".AdminReportsActivity" />
+        <activity android:name=".AdminWebView" />
+        <activity android:name=".AdminScannedDone" />
+        <activity android:name=".ForgetPassConductorActivity" />
+        <activity android:name=".AdminPrintPdf" />
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
